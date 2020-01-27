@@ -1,0 +1,1 @@
+./arcade lib/graplib/sdl/lib_arcade_sdl.so
